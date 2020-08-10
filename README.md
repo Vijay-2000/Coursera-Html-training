@@ -1,2 +1,2 @@
-# full-sstack-web-development
+# coursera Html training
 web development repo
